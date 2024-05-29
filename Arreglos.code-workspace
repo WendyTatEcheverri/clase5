@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Arreglos"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../clase7"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "clase7"
+	}
+}
